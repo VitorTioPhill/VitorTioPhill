@@ -24,9 +24,9 @@ em uma rodada, uma pergunta é sorteada, e os dois jogadores devem responder a o
  
  Um nome criativo para o jogo deve ser escolhido e mostrado na tela inicial.
  
- não é permitido começar uma partida sem os personagens 
+ não é permitido começar uma partida sem os personagens.
  
-não é permitido ter tempo de vida negativo
+não é permitido ter tempo de vida negativo.
 
 
 
